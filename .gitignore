@@ -1,0 +1,8 @@
+Temp/
+Library/
+*_Data/
+.vs/
+Assets/SteamVR/
+*.csproj
+*.sln
+*.exe
